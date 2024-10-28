@@ -449,6 +449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f370b584b31015a4bb3f8c38295c83df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  NPCRigidbody: {fileID: 352575558}
 --- !u!1 &440677851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1133,7 +1134,7 @@ GameObject:
   - component: {fileID: 1787667920}
   - component: {fileID: 1787667919}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Huset til Nils
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

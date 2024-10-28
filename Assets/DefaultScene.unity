@@ -557,7 +557,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f370b584b31015a4bb3f8c38295c83df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcRigidbody: {fileID: 0}
+  npcRigidbody: {fileID: 352575558}
+  houseBoxCollider: {fileID: 1787667919}
+  doorBoxCollider: {fileID: 7593469}
   speed: 5
 --- !u!1 &440677851
 GameObject:
